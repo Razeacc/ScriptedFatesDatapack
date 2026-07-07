@@ -1,0 +1,1 @@
+tellraw @a {"text":"Scripted Fates Datapack has initialized","color":"cyan"}
