@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:sand"
+  ],
+  "addition": [
+    "minecraft:red_dye",
+    "minecraft:redstone",
+    "minecraft:poppy",
+    "minecraft:rose_bush",
+    "minecraft:red_tulip"
+  ],
+  "result": {
+    "id": "minecraft:red_sand",
+    "count": 1
+  }
+}

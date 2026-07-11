@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:saddle",
+  "addition": "minecraft:flint",
+  "result": {
+    "id": "leather",
+    "count": 3
+  }
+}

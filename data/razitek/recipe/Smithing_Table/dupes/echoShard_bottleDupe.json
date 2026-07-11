@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:echo_shard"
+  ],
+  "addition": [
+    "minecraft:experience_bottle"
+  ],
+  "result": {
+    "id": "minecraft:echo_shard",
+    "count": 2
+  }
+}

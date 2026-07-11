@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:cod",
+      "minecraft:salmon",
+      "minecraft:tropical_fish",
+      "minecraft:pufferfish"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:bone",
+    "components": {
+      "minecraft:custom_name": "Fish Bone",
+      "minecraft:damage": 4,
+      "minecraft:damage_type": "minecraft:generic",
+      "minecraft:lore": [
+        "Unnecessarily sharp"
+      ]
+    }
+  }
+}

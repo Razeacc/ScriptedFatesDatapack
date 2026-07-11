@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:andesite"
+  ],
+  "addition": [
+    "minecraft:cobblestone",
+    "minecraft:cobbled_deepslate"
+  ],
+  "result": {
+    "id": "minecraft:andesite",
+    "count": 2
+  }
+}

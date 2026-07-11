@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:tnt"
+  ],
+  "addition": [
+    "minecraft:flint"
+  ],
+  "result": {
+    "id": "minecraft:sand",
+    "count": 5
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:gravel",
+  "addition": "minecraft:iron_nugget",
+  "template": "minecraft:slime_ball",
+  "result": {
+    "id": "minecraft:flint",
+    "components": {
+      "minecraft:custom_name": "Sticky Magnetized Flint",
+      "minecraft:lore": [
+        "Who knew shoving an iron nugget into a slime ball and rubbing it on gravel can guarantee a flint shard!"
+      ]
+    },
+    "count": 1
+  }
+}

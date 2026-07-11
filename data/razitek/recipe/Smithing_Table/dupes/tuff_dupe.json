@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:tuff"
+  ],
+  "addition": [
+    "minecraft:cobblestone",
+    "minecraft:cobbled_deepslate"
+  ],
+  "result": {
+    "id": "minecraft:tuff",
+    "count": 2
+  }
+}

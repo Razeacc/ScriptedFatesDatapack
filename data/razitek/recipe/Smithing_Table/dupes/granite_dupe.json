@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:granite"
+  ],
+  "addition": [
+    "minecraft:cobblestone",
+    "minecraft:cobbled_deepslate"
+  ],
+  "result": {
+    "id": "minecraft:granite",
+    "count": 2
+  }
+}

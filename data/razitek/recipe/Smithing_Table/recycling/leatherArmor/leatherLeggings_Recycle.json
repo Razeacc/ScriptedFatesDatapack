@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:leather_leggings"
+  ],
+  "addition": "minecraft:flint",
+  "result": {
+    "id": "leather",
+    "count": 4
+  }
+}

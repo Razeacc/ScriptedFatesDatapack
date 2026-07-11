@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:calcite"
+  ],
+  "addition": [
+    "minecraft:cobblestone",
+    "minecraft:cobbled_deepslate"
+  ],
+  "result": {
+    "id": "minecraft:calcite",
+    "count": 2
+  }
+}

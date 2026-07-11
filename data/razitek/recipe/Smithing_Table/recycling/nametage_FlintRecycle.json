@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:name_tag",
+  "addition": "minecraft:flint",
+  "result": {
+    "id": "minecraft:paper",
+    "count": 2
+  }
+}

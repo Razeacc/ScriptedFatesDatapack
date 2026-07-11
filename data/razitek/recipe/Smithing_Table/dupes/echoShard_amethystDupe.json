@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:echo_shard"
+  ],
+  "addition": [
+    "minecraft:amethyst_cluster"
+  ],
+  "result": {
+    "id": "minecraft:echo_shard",
+    "count": 3
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "#minecraft:wool",
+  "addition": "minecraft:flint",
+  "result": {
+    "id": "minecraft:string",
+    "count": 3
+  }
+}

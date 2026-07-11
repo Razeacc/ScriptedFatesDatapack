@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:nautilus_shell",
+  "addition": "minecraft:phantom_membrane",
+  "result": {
+    "id": "minecraft:nautilus_shell",
+    "components": {
+      "minecraft:custom_name": "Suspicious Nautilus Shell",
+      "minecraft:lore": [
+        "You don't know how the shell duplicated, but it worked."
+      ]
+    },
+    "count": 2
+  }
+}

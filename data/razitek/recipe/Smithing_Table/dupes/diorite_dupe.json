@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:diorite"
+  ],
+  "addition": [
+    "minecraft:cobblestone",
+    "minecraft:cobbled_deepslate"
+  ],
+  "result": {
+    "id": "minecraft:diorite",
+    "count": 2
+  }
+}

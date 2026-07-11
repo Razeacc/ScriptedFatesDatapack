@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:sculk",
+  "addition": "minecraft:flint",
+  "result": {
+    "id": "minecraft:sculk_vein",
+    "count": 4
+  }
+}

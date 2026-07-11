@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:leather_boots"
+  ],
+  "addition": "minecraft:flint",
+  "result": {
+    "id": "leather",
+    "count": 2
+  }
+}

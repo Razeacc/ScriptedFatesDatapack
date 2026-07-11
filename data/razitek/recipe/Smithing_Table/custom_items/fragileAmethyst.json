@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:spawner",
+  "addition": "minecraft:echo_shard",
+  "template": "minecraft:medium_amethyst_bud",
+  "result": {
+    "id": "minecraft:budding_amethyst",
+    "components": {
+      "minecraft:custom_name": "Fragile Amethyst Bud",
+      "minecraft:lore": [
+        {
+          "text": "Mask Maker's invention. Uses sculk to mimic a spawner's capabilities to generate amethyst.",
+          "type": "text",
+          "color": "aqua"
+        }
+      ]
+    },
+    "count": 1
+  }
+}

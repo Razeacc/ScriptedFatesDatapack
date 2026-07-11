@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:sculk",
+  "addition": "minecraft:budding_amethyst",
+  "result": {
+    "id": "stone",
+    "count": 1
+  }
+}

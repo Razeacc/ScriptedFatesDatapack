@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "concrete_conversion",
+  "key": {
+    "#": "minecraft:white_concrete_powder",
+    "X": "minecraft:nautilus_shell"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:white_concrete"
+  }
+}

@@ -2,12 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    "minecraft:paper",
-    "minecraft:paper",
-    "minecraft:leather"
+    "minecraft:name_tag"
   ],
   "result": {
-    "id": "minecraft:book",
+    "id": "minecraft:paper",
     "count": 1
   }
 }

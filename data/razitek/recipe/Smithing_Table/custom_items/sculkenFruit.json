@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": [
+    "minecraft:chorus_fruit"
+  ],
+  "addition": [
+    "minecraft:echo_shard"
+  ],
+  "result": {
+    "id": "minecraft:chorus_fruit",
+    "components": {
+      "minecraft:custom_name": "Sculken Fruit",
+      "minecraft:lore": [
+        {
+          "text": "Mask Maker's invention.",
+          "type": "text",
+          "color": "aqua",
+          "shadow_color": 11222847,
+          "font": "minecraft:include/unifont"
+        }
+      ],
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:consumable": {
+        "consume_seconds": 1.6,
+        "animation": "trident",
+        "sound": "minecraft:entity.warden.sonic_charge",
+        "has_consume_particles": false,
+        "on_consume_effects": [
+          {
+            "type": "minecraft:play_sound",
+            "sound": "minecraft:entity.warden.sonic_boom"
+          }
+        ]
+      },
+      "minecraft:use_effects": {
+        "can_sprint": false,
+        "interact_vibrations": true
+      },
+      "minecraft:custom_data": {
+        "/summon sculk_charge ~ ~ ~ {charge: 100, facings:[up, down, north, south, east, west]}": {}
+      }
+    },
+    "count": 1
+  }
+}
