@@ -1,5 +1,6 @@
 {
-    "values":[
-        "sf:load"
-    ]
+  "replace": false,
+  "values": [
+    "razitek:setup"
+  ]
 }

@@ -1,7 +1,10 @@
 {
-    "pack": {
-        "min_format": [101, 1],
-        "max_format": [101, 1],
-        "description": "Scripted Fates Datapack"
+  "pack": {
+    "pack_format": 101,
+    "description": "§aTest §7v0.1",
+    "supported_formats": {
+      "min_inclusive": 4,
+      "max_inclusive": 107
     }
+  }
 }
