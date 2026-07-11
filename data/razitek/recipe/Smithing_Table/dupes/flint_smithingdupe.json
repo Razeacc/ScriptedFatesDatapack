@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "base": "minecraft:flint",
+  "addition": "minecraft:phantom_spawn_egg",
+  "result": {
+    "id": "minecraft:flint",
+    "components": {
+      "minecraft:custom_name": "Suspicious Flint Shard",
+      "minecraft:lore": [
+        "You don't know how it duplicated, but it worked."
+      ]
+    },
+    "count": 8
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": [
+      "minecraft:charcoal"
+    ]
+  },
+  "result": {
+    "id": "minecraft:coal_block",
+    "components": {
+      "minecraft:custom_name": "Charcoal Block",
+      "minecraft:lore": [
+        "Can't even tell the difference."
+      ]
+    },
+    "count": 1
+  }
+}

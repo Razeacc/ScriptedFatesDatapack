@@ -9,7 +9,13 @@
       "minecraft:custom_name": "Fragile Amethyst Bud",
       "minecraft:lore": [
         {
-          "text": "Mask Maker's invention. Uses sculk to mimic a spawner's capabilities to generate amethyst.",
+          "text": "Mask Maker's invention.",
+          "type": "text",
+          "color": "aqua",
+          "font": "minecraft:default"
+        },
+        {
+          "text": "Uses sculk to mimic a spawner's capability to grow amethyst.",
           "type": "text",
           "color": "aqua"
         }

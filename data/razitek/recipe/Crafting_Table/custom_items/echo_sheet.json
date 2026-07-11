@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "%#%",
+    "#$#",
+    "%#%"
+  ],
+  "key": {
+    "#": "minecraft:phantom_membrane",
+    "$": "minecraft:echo_shard",
+    "%": "minecraft:paper"
+  },
+  "result": {
+    "id": "minecraft:phantom_spawn_egg",
+    "components": {
+      "minecraft:custom_name": "Echo Sheet",
+      "minecraft:custom_data": {
+        "razitek:item": "echo_sheet"
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:lore": [
+        {
+          "text": "Mask Maker's invention.",
+          "type": "text",
+          "color": "aqua",
+          "font": "minecraft:default"
+        },
+        {
+          "text": "Capable of replicating certain catalytic materials.",
+          "type": "text",
+          "color": "aqua"
+        },
+        "It vibrates."
+      ],
+      "minecraft:rarity": "uncommon",
+      "minecraft:item_model": "minecraft:paper"
+    },
+    "count": 1
+  }
+}

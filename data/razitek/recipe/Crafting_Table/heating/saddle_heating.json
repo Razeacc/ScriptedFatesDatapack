@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:blaze_powder",
+    "minecraft:saddle"
+  ],
+  "result": {
+    "id": "minecraft:charcoal",
+    "count": 2
+  }
+}
