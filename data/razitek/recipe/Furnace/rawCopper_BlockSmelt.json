@@ -3,5 +3,5 @@
   "ingredient": "minecraft:raw_copper_block",
   "result": "minecraft:copper_block",
   "experience": 15,
-  "cookingtime": 1500
+  "cookingtime": 350
 }

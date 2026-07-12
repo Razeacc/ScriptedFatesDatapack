@@ -1,0 +1,81 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:rabbit_hide",
+      "components": {
+        "minecraft:custom_name": "Echo Sheet",
+        "minecraft:custom_data": {
+          "razitek:item": "echo_sheet"
+        },
+        "minecraft:enchantment_glint_override": true,
+        "minecraft:lore": [
+          {
+            "text": "Mask Maker's invention.",
+            "type": "text",
+            "color": "aqua",
+            "font": "minecraft:default"
+          },
+          {
+            "text": "Capable of replicating certain catalytic materials.",
+            "type": "text",
+            "color": "aqua"
+          },
+          "It vibrates."
+        ],
+        "minecraft:rarity": "uncommon",
+        "minecraft:item_model": "minecraft:paper"
+      },
+      "count": 1
+    },
+    "title": "Echo Sheet",
+    "description": "Four Pages, Four Ghosts, and an Echo",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "got_sheet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:rabbit_hide",
+            "count": 1,
+            "components": {
+              "minecraft:custom_name": "Echo Sheet",
+              "minecraft:custom_data": {
+                "razitek:item": "echo_sheet"
+              },
+              "minecraft:enchantment_glint_override": true,
+              "minecraft:lore": [
+                {
+                  "text": "Mask Maker's invention.",
+                  "type": "text",
+                  "color": "aqua",
+                  "font": "minecraft:default"
+                },
+                {
+                  "text": "Capable of replicating certain catalytic materials.",
+                  "type": "text",
+                  "color": "aqua"
+                },
+                "It vibrates."
+              ],
+              "minecraft:rarity": "uncommon",
+              "minecraft:item_model": "minecraft:paper"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "got_sheet"
+    ]
+  ],
+  "rewards": {
+    "experience": 25,
+    "function": "razitek:research/discover_echosheet"
+  }
+}

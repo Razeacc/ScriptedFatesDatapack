@@ -9,7 +9,31 @@ tellraw @s {"text":"-----------"}
 tellraw @s [
 "",
     {
-    "text":"<- Back to Pack Menu",
+    "text":"<- Logbook ^",
+    "color":"gold",
+    "clickEvent":
+        {
+        "action":"run_command",
+        "value":"/function razitek:help/qol"
+        }
+    }
+]
+tellraw @s [
+"",
+    {
+    "text":"<<- Recipes ",
+    "color":"gold",
+    "clickEvent":
+        {
+        "action":"run_command",
+        "value":"/function razitek:help/recipes/recipeList"
+        }
+    }
+]
+tellraw @s [
+"",
+    {
+    "text":"<<<- Pack Menu",
     "color":"gold",
     "clickEvent":
         {

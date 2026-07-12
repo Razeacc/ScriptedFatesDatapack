@@ -28,3 +28,5 @@ tellraw @s [
 ]
 
 tellraw @s {"text":"===========","color":"white"}
+
+advancement revoke @s only razitek:player_join

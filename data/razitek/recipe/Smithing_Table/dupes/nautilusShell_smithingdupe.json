@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_transform",
   "base": "minecraft:nautilus_shell",
-  "addition": "minecraft:phantom_spawn_egg",
+  "addition": "minecraft:rabbit_hide",
   "result": {
     "id": "minecraft:nautilus_shell",
     "components": {

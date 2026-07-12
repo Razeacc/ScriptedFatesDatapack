@@ -1,4 +1,4 @@
-tellraw @s {"text":"-[ Razi-TEK Pack Quality of Life ]-","color":"green"}
+tellraw @s {"text":"-[ Quality of Life ]-","color":"green"}
 tellraw @s {"text":"==========="}
 
 tellraw @s [
@@ -10,7 +10,7 @@ tellraw @s [
         {
         "action":"run_command",
         "value":"/function razitek:recipes/crafting/copperGolem_recipe"
-        }
+        },
     "hoverEvent":
         {
         "action":"show_text",
@@ -42,7 +42,7 @@ tellraw @s [
         "action":"run_command",
         "value":"/function razitek:recipes/smithing/flintHarvesting_recipe"
         }
-    }
+    },
     "hoverEvent":
         {
         "action":"show_text",
@@ -65,7 +65,7 @@ tellraw @s [
         "action":"run_command",
         "value":"/function razitek:recipes/smithing/sculkVeinHarvesting_recipe"
         }
-    }
+    },
     "hoverEvent":
         {
         "action":"show_text",
@@ -136,7 +136,7 @@ tellraw @s [
         "action":"run_command",
         "value":"/function razitek:recipes/crafting/charcoalBlock_recipe"
         }
-    }
+    },
     "hoverEvent":
         {
         "action":"show_text",

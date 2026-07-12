@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "razitek:setup"
+    "razitek:help",
+    "razitek:welcome"
   ]
 }

@@ -1,20 +1,20 @@
-tellraw @s {"text":"-[ Duplication Recipes ]-","color":"green"}
+tellraw @s {"text":"-[ Razi-TEK Pack Recipes ]-","color":"green"}
 tellraw @s {"text":"==========="}
 
 tellraw @s [
 "",
     {
-    "text":"- Phantom Membrane Duplication",
+    "text":"[Quality of Life]",
     "color":"gold",
     "clickEvent":
         {
         "action":"run_command",
-        "value":"/function razitek:recipes/crafting/membraneDuping_recipe"
+        "value":"/function razitek:help/qol"
         },
     "hoverEvent":
         {
         "action":"show_text",
-        "contents":"Click to show crafting recipe"
+        "contents":"New Quality of Life features"
         }
     }
 ]
@@ -22,17 +22,17 @@ tellraw @s [
 tellraw @s [
 "",
     {
-    "text":"- Special Stone Duplication",
+    "text":"[Recycling Recipes]",
     "color":"gold",
     "clickEvent":
         {
         "action":"run_command",
-        "value":"/function razitek:recipes/smithing/membraneDuping_recipe"
+        "value":"/function razitek:help/recycling_recipes"
         },
     "hoverEvent":
         {
         "action":"show_text",
-        "contents":"Click to show smithing recipe"
+        "contents":"Turn trash into less-useless trash"
         }
     }
 ]
@@ -40,17 +40,17 @@ tellraw @s [
 tellraw @s [
 "",
     {
-    "text":"- Flint Duplication",
+    "text":"[Hydration Recipes]",
     "color":"gold",
     "clickEvent":
         {
         "action":"run_command",
-        "value":"/function razitek:recipes/smithing/flintDuping_recipe"
+        "value":"/function razitek:help/hydra_recipes"
         },
     "hoverEvent":
         {
         "action":"show_text",
-        "contents":"Click to show smithing recipe"
+        "contents":"What you can do with nautilus shells now"
         }
     }
 ]
@@ -58,17 +58,35 @@ tellraw @s [
 tellraw @s [
 "",
     {
-    "text":"- Nautilus Shell Duplication",
+    "text":"[Pyroprocessing Recipes]",
     "color":"gold",
     "clickEvent":
         {
         "action":"run_command",
-        "value":"/function razitek:recipes/smithing/nautilusDuping_recipe"
+        "value":"/function razitek:help/heat_recipes"
         },
     "hoverEvent":
         {
         "action":"show_text",
-        "contents":"Click to show smithing recipe"
+        "contents":"Blaze your useless junk to useful ash"
+        }
+    }
+]
+
+tellraw @s [
+"",
+    {
+    "text":"[Duplication Recipes]",
+    "color":"gold",
+    "clickEvent":
+        {
+        "action":"run_command",
+        "value":"/function razitek:help/dupe_recipes"
+        },
+    "hoverEvent":
+        {
+        "action":"show_text",
+        "contents":"Maybe some things can last forever"
         }
     }
 ]

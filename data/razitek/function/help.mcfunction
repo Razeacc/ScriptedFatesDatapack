@@ -1,96 +1,17 @@
 tellraw @s {"text":"-[ Razi-TEK Pack v1.0 ]-","color":"green"}
 tellraw @s {"text":"==============","color":"white"}
-
 tellraw @s [
 "",
     {
-    "text":"[Quality of Life]",
+    "text":"[Recipes and Features]",
     "color":"gold",
     "clickEvent":
         {
         "action":"run_command",
-        "value":"/function razitek:help/qol"
-        },
-    "hoverEvent":
-        {
-        "action":"show_text",
-        "contents":"New Quality of Life features"
+        "value":"/function razitek:recipes/recipeList"
         }
     }
 ]
-
-tellraw @s [
-"",
-    {
-    "text":"[Recycling Recipes]",
-    "color":"gold",
-    "clickEvent":
-        {
-        "action":"run_command",
-        "value":"/function razitek:help/recycling_recipes"
-        },
-    "hoverEvent":
-        {
-        "action":"show_text",
-        "contents":"Turn trash into less-useless trash"
-        }
-    }
-]
-
-tellraw @s [
-"",
-    {
-    "text":"[Hydration Recipes]",
-    "color":"gold",
-    "clickEvent":
-        {
-        "action":"run_command",
-        "value":"/function razitek:help/hydra_recipes"
-        },
-    "hoverEvent":
-        {
-        "action":"show_text",
-        "contents":"What you can do with nautilus shells now"
-        }
-    }
-]
-
-tellraw @s [
-"",
-    {
-    "text":"[Heating Recipes]",
-    "color":"gold",
-    "clickEvent":
-        {
-        "action":"run_command",
-        "value":"/function razitek:help/heat_recipes"
-        },
-    "hoverEvent":
-        {
-        "action":"show_text",
-        "contents":"Blaze your useless junk to useful ash"
-        }
-    }
-]
-
-tellraw @s [
-"",
-    {
-    "text":"[Duplication Recipes]",
-    "color":"gold",
-    "clickEvent":
-        {
-        "action":"run_command",
-        "value":"/function razitek:help/dupe_recipes"
-        },
-    "hoverEvent":
-        {
-        "action":"show_text",
-        "contents":"Maybe some things can last forever"
-        }
-    }
-]
-
 tellraw @s [
 "",
     {
@@ -108,9 +29,25 @@ tellraw @s [
         }
     }
 ]
-
-
 tellraw @s {"text":"==============","color":"white"}
+
+tellraw @s [
+"",
+    {
+    "text":"[About]",
+    "color":"gold",
+    "clickEvent":
+        {
+        "action":"run_command",
+        "value":"/function razitek:about"
+        },
+    "hoverEvent":
+        {
+        "action":"show_text",
+        "contents":"Information about the datapack"
+        }
+    }
+]
 
 tellraw @s [
 "",
@@ -120,7 +57,7 @@ tellraw @s [
     "clickEvent":
         {
         "action":"run_command",
-        "value":"/function razitek:help/v1_changelog"
+        "value":"/function razitek:changelogs/v1_changelog"
         },
     "hoverEvent":
         {

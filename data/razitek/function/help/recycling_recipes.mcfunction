@@ -1,4 +1,4 @@
-tellraw @s {"text":"-[ Razi-TEK Pack Recycling ]-","color":"green"}
+tellraw @s {"text":"-[ Recycling Recipes ]-","color":"green"}
 tellraw @s {"text":"==========="}
 
 tellraw @s [
@@ -24,7 +24,7 @@ tellraw @s [
         "action":"run_command",
         "value":"/function razitek:recipes/smithing/leatherScrapping_recipe"
         }
-    }
+    },
     "hoverEvent":
         {
         "action":"show_text",
@@ -68,7 +68,7 @@ tellraw @s [
         "action":"run_command",
         "value":"/function razitek:recipes/smithing/nametagScrapping_recipe"
         }
-    }
+    },
     "hoverEvent":
         {
         "action":"show_text",
@@ -86,7 +86,7 @@ tellraw @s [
         "action":"run_command",
         "value":"/function razitek:recipes/smithing/TNTRecycling_recipe"
         }
-    }
+    },
     "hoverEvent":
         {
         "action":"show_text",
@@ -104,7 +104,7 @@ tellraw @s [
         "action":"run_command",
         "value":"/function razitek:recipes/smithing/woolRecycling_recipe"
         }
-    }
+    },
     "hoverEvent":
         {
         "action":"show_text",

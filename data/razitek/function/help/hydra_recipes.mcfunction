@@ -1,4 +1,4 @@
-tellraw @s {"text":"-[ Razi-TEK Pack v1.0 ]-","color":"green"}
+tellraw @s {"text":"-[ Hydration Recipes ]-","color":"green"}
 tellraw @s {"text":"==========="}
 
 tellraw @s [
@@ -10,7 +10,7 @@ tellraw @s [
         {
         "action":"run_command",
         "value":"/function razitek:recipes/crafting/massConcrete_recipe"
-        }
+        },
     "hoverEvent":
         {
         "action":"show_text",
@@ -28,7 +28,7 @@ tellraw @s [
         {
         "action":"run_command",
         "value":"/function razitek:recipes/crafting/copperOxidization_recipe"
-        }
+        },
     "hoverEvent":
         {
         "action":"show_text",
@@ -46,7 +46,7 @@ tellraw @s [
         {
         "action":"run_command",
         "value":"/function razitek:recipes/crafting/mudCrafting_recipe"
-        }
+        },
     "hoverEvent":
         {
         "action":"show_text",

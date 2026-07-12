@@ -1,20 +1,36 @@
 tellraw @s {"text":"-< Mask Maker's Logbook >-","color":"cyan"}
 tellraw @s {"text":"[-=-] [-=-] [-=-] [-=-]"}
 
-tellraw @s [
+execute if entity @s[advancements={razitek:echo_sheet=true}] run tellraw @s [
 "",
     {
-    "text":"[Locked Entry]",
-    "color":"red",
+    "text":"[ Echo Sheet ]",
+    "color":"green",
+    "clickEvent":
+        {
+        "action":"run_command",
+        "value":"/function razitek:logbook/echoSheet_log"
+        },
     "hoverEvent":
         {
         "action":"show_text",
-        "contents":"Four Sheets, Four Ghosts, and an Echo"
+        "contents":"Click to show log"
         }
     }
 ]
 
-# tellraw @s {"text":"- Echo Sheets."}
+execute unless entity @s[advancements={razitek:echo_sheet=true}] run tellraw @s [
+"",
+    {
+    "text":"[Blurry Page]",
+    "color":"red",
+    "hoverEvent":
+        {
+        "action":"show_text",
+        "contents":"Four Pages, Four Ghosts, and an Echo"
+        }
+    }
+]
 
 tellraw @s [
 "",

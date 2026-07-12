@@ -1,4 +1,4 @@
-tellraw @s {"text":"-[ Razi-TEK Pack v1.0 ]-","color":"green"}
+tellraw @s {"text":"-[ Pyroprocessing Recipes ]-","color":"green"}
 tellraw @s {"text":"==========="}
 
 tellraw @s [
