@@ -1,12 +1,1 @@
-give @s rabbit_hide[
-    minecraft:custom_name='{"text":"Echo Sheet","color":"aqua"}',
-    minecraft:lore=[
-        '{"text":"Mask Maker'\''s invention.","color":"aqua"}',
-        '{"text":"Capable of replicating certain materials.","color":"aqua"}',
-        '{"text":"Experimental","italic":true,"color":"gray"}'
-    ],
-    minecraft:enchantment_glint_override=true,
-    minecraft:item_model="minecraft:paper",
-    minecraft:rarity="uncommon",
-    minecraft:custom_data={razitek_item:"echo_sheet"}
-]
+give @s rabbit_hide[minecraft:custom_name='{"text":"Echo Sheet","color":"aqua"}',minecraft:lore=['{text:"Mask Maker'\''s invention.","color":"aqua"}','{"text":"Capable of replicating certain materials.","color":"aqua"}','{"text":"Experimental","italic":true,"color":"gray"}'],minecraft:enchantment_glint_override=true,minecraft:item_model="minecraft:paper",minecraft:rarity="uncommon",minecraft:custom_data={razitek_item:"echo_sheet"}]

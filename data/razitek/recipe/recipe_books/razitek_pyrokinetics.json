@@ -1,0 +1,271 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:book",
+    "minecraft:blaze_powder"
+  ],
+  "result": {
+    "id": "minecraft:written_book",
+    "components": {
+      "minecraft:written_book_content": {
+        "pages": [
+          {
+            "text": "==========\n\n",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Pyrokinetics Guide\n",
+                "type": "text",
+                "extra": [
+                  {
+                    "text": "73rd Edition\n\n==========\n\n\nAuthor:\nDr. Ciela Besado LXIV\n\nCo-Author:\nKaitzar Razhom",
+                    "bold": false
+                  }
+                ],
+                "bold": true
+              }
+            ]
+          },
+          {
+            "text": "==========\nTable of Contents\n==========",
+            "extra": [
+              {
+                "text": "\n\nAbout",
+                "extra": [
+                  {
+                    "text": "\n\n- Leather Charcoaling",
+                    "extra": [
+                      {
+                        "text": "\n- Fish Charcoaling",
+                        "extra": [
+                          {
+                            "text": "\n- Charcoal Block",
+                            "extra": [
+                              {
+                                "text": "\n- Flicker Sticks",
+                                "extra": [
+                                  {
+                                    "text": "\n- Bulk Smelting",
+                                    "click_event": {
+                                      "action": "change_page",
+                                      "page": 8
+                                    }
+                                  }
+                                ],
+                                "click_event": {
+                                  "action": "change_page",
+                                  "page": 7
+                                }
+                              }
+                            ],
+                            "click_event": {
+                              "action": "change_page",
+                              "page": 6
+                            }
+                          }
+                        ],
+                        "click_event": {
+                          "action": "change_page",
+                          "page": 5
+                        }
+                      }
+                    ],
+                    "italic": false,
+                    "click_event": {
+                      "action": "change_page",
+                      "page": 4
+                    }
+                  }
+                ],
+                "color": "dark_green",
+                "italic": true,
+                "underlined": true,
+                "click_event": {
+                  "action": "change_page",
+                  "page": 3
+                }
+              }
+            ]
+          },
+          {
+            "raw": {
+              "text": "FLICKER FLAME",
+              "type": "text",
+              "extra": [
+                {
+                  "text": ", also known by contemporaries as \"blaze powder\", is the Disciplinary Catalyst for Pyrokinetics.\nIt is the art of using high-frequency reactions to harness the responsibility of heat into our own hands..",
+                  "color": "black",
+                  "underlined": false
+                }
+              ],
+              "color": "gold",
+              "underlined": true,
+              "hover_event": {
+                "action": "show_item",
+                "id": "minecraft:blaze_powder"
+              }
+            }
+          },
+          {
+            "text": "--------\nCrafting / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Leather Charcoaling",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\nAny Leather Equipment + Blaze Powder",
+                        "extra": [
+                          {
+                            "text": "\nCompatible with saddles as well.",
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nCrafting / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Fish Charcoaling",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n2 of Any Fish + Blaze Powder",
+                        "extra": [
+                          {
+                            "text": "\nRaw Cod, Raw Salmon, Tropical Fish, Raw Fish, and Pufferfish are all compatible.",
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nCompression Crafting / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Charcoal Block",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[X] [X] [X]\n[X] [X] [X]\n[X] [X] [X]\n\nX = Charcoal\n",
+                        "extra": [
+                          {
+                            "text": "\nNEVER mix Charcoal with Coal. Always craft Charcoal Blocks with Charcoal.",
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nSmelting / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Flicker Sticks (Blaze Rods)",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\nBreeze Rod -> Blaze Rod\n",
+                        "extra": [
+                          {
+                            "text": "\nBy superheating a solidified low-pressure area, it traps the heat, creating an artificial Flicker Stick.",
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nSmelting / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Bulk Smelting",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\nAny Raw Ore Block -> Ore Block\n",
+                        "extra": [
+                          {
+                            "text": "\nSimply leave compressed metals in a smelter for longer. It will process, trust it.",
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          }
+        ],
+        "title": "Pyrokinetics Guide 1.0",
+        "author": "Dr. Ciela Besado LXIV",
+        "generation": 3
+      },
+      "minecraft:lore": [
+        "Warm to the touch."
+      ]
+    },
+    "count": 1
+  }
+}

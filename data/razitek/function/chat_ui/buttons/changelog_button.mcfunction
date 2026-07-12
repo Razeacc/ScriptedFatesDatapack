@@ -1,0 +1,1 @@
+tellraw @s {text:"[Changelog]",color:"gold",click_event:{action:"run_command",command:"/function razitek:changelogs/v1_changelog"}}

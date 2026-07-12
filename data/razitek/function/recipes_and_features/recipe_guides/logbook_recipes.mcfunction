@@ -9,7 +9,7 @@ execute if entity @s[advancements={razitek:echo_sheet=true}] run tellraw @s [
     "clickEvent":
         {
         "action":"run_command",
-        "value":"/function razitek:logbook/echoSheet_log"
+        "value":"/function razitek:logbook/echosheet_log"
         },
     "hoverEvent":
         {

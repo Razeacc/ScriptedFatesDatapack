@@ -1,6 +1,31 @@
 {
-  "criteria": {},
+  "display": {
+    "icon": {
+      "id": "minecraft:echo_shard",
+      "components": {
+        "minecraft:enchantments": {
+          "minecraft:infinity": 1
+        }
+      },
+      "count": 1
+    },
+    "title": "Cubiquan Wilds",
+    "description": "Welcome to the Cubiquan Wilds, make fine use of your surveypack.",
+    "background": "minecraft:block/sculk",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
   "rewards": {
+    "experience": 0,
+    "recipes": [
+      "razitek:recipe_books/razitek_basics"
+    ],
     "function": "razitek:welcome"
   }
 }

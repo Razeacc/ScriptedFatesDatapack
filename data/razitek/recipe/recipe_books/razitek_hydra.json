@@ -1,0 +1,194 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:book",
+    "minecraft:nautilus_shell"
+  ],
+  "result": {
+    "id": "minecraft:written_book",
+    "components": {
+      "minecraft:written_book_content": {
+        "pages": [
+          {
+            "text": "==========\n\n",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Hydration Guide\n",
+                "type": "text",
+                "extra": [
+                  {
+                    "text": "1st Edition\n\n==========\n\n\nAuthor:\nProf. Voynich",
+                    "bold": false
+                  }
+                ],
+                "bold": true
+              }
+            ]
+          },
+          {
+            "text": "==========\nTable of Contents\n==========",
+            "extra": [
+              {
+                "text": "\n\nAbout",
+                "extra": [
+                  {
+                    "text": "\n\n- Bulk Concrete",
+                    "extra": [
+                      {
+                        "text": "\n- Bulk Oxidation",
+                        "extra": [
+                          {
+                            "text": "\n- Bulk Mud",
+                            "click_event": {
+                              "action": "change_page",
+                              "page": 7
+                            }
+                          }
+                        ],
+                        "click_event": {
+                          "action": "change_page",
+                          "page": 6
+                        }
+                      }
+                    ],
+                    "italic": false,
+                    "click_event": {
+                      "action": "change_page",
+                      "page": 5
+                    }
+                  }
+                ],
+                "color": "dark_green",
+                "italic": true,
+                "underlined": true,
+                "click_event": {
+                  "action": "change_page",
+                  "page": 3
+                }
+              }
+            ]
+          },
+          {
+            "raw": {
+              "text": "NAUTILUS SHELL",
+              "type": "text",
+              "extra": [
+                {
+                  "text": "s. Quite remarkable creatures, aren't they?\nI heard ridding one is quite a pleasant experience.\n\nToo bad those aren't quite as large where you're from.",
+                  "color": "black",
+                  "bold": false
+                }
+              ],
+              "color": "blue",
+              "bold": true
+              }
+            },
+          {
+            "raw": {
+              "text": "Regardless, their aquatic cases can be used for some remarkable hydrological applications."
+            }
+          },
+          {
+            "text": "--------\nCrafting / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Bulk Concrete Hardening",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[X] [X] [X]\n[X] [@] [X]\n[X] [X] [X]\n\nX = Any Concrete Powder\n@ = Nautilus Shell\n",
+                        "extra": [
+                          {
+                            "text": "\nDampening the powder's vibrations, hardening it tighter and tighter.",
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nCrafting / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Bulk Copper Oxidation",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[X] [X] [X]\n[X] [@] [X]\n[X] [X] [X]\n\nX = Copper Blocks\n@ = Nautilus Shell\n",
+                        "extra": [
+                          {
+                            "text": "\nDampen the copper's luster, oxidize its shiny outer.",
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nCrafting / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Bulk Mud Crafting",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[X] [X] [X]\n[X] [@] [X]\n[X] [X] [X]\n\nX = Dirt Blocks\n@ = Nautilus Shell\n",
+                        "extra": [
+                          {
+                            "text": "\nShould save you some time, and a bottle.",
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          }
+        ],
+        "title": "Hydration Manuscript 1.0",
+        "author": "Prof. Voynich",
+        "generation": 1
+      },
+      "minecraft:lore": [
+        "It's damp."
+      ]
+    },
+    "count": 1
+  }
+}

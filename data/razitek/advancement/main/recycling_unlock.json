@@ -1,0 +1,324 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:flint",
+      "count": 1
+    },
+    "title": "Three R's",
+    "description": "Discover new recycling recipes",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "razitek:main/player_join",
+  "criteria": {
+    "discover_recycling_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:written_book",
+            "count": 1,
+            "components": {
+      "minecraft:written_book_content": {
+        "pages": [
+          {
+            "text": "==========\n\n",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Recycling Guide\n",
+                "type": "text",
+                "extra": [
+                  {
+                    "text": "v1.0\n\n==========\n\nAuthor:\nKaitzar Razhom",
+                    "bold": false
+                  }
+                ],
+                "bold": true
+              }
+            ]
+          },
+          {
+            "text": "==========\nTable of Contents\n==========",
+            "extra": [
+              {
+                "text": "\n\nAbout",
+                "extra": [
+                  {
+                    "text": "\n\n- Flint Scavenging",
+                    "extra": [
+                      {
+                        "text": "\n- Leather Salvaging",
+                        "extra": [
+                          {
+                            "text": "\n- Paper Reusing",
+                            "extra": [
+                              {
+                                "text": "\n- TNT Scrapping",
+                                "extra": [
+                                  {
+                                    "text": "\n- String Unspooling",
+                                    "click_event": {
+                                      "action": "change_page",
+                                      "page": 8
+                                    }
+                                  }
+                                ],
+                                "click_event": {
+                                  "action": "change_page",
+                                  "page": 7
+                                }
+                              }
+                            ],
+                            "click_event": {
+                              "action": "change_page",
+                              "page": 6
+                            }
+                          }
+                        ],
+                        "click_event": {
+                          "action": "change_page",
+                          "page": 5
+                        }
+                      }
+                    ],
+                    "italic": false,
+                    "click_event": {
+                      "action": "change_page",
+                      "page": 4
+                    }
+                  }
+                ],
+                "color": "dark_green",
+                "italic": true,
+                "underlined": true,
+                "click_event": {
+                  "action": "change_page",
+                  "page": 3
+                }
+              }
+            ]
+          },
+          {
+            "raw": {
+              "text": "FLINT",
+              "type": "text",
+              "extra": [
+                {
+                  "text": " is the Disciplinary Catalyst for Recycling.\n\nAlthough not required for most recipes, it allows one to ",
+                  "extra": [
+                    {
+                      "text": "salvage materials more effectively.",
+                      "underlined": true
+                    }
+                  ],
+                  "bold": false
+                }
+              ],
+              "bold": true
+            }
+          },
+          {
+            "text": "--------\nSmithing Table / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Flint Scavenging",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[S]-[G]-[I]",
+                        "extra": [
+                          {
+                            "text": "\nLeft = Slime Ball\nMiddle = Gravel\nRight = Iron Nugget\n",
+                            "extra": [
+                              {
+                                "text": "\nReliable Flint goes a long way to sustainable survival.",
+                                "italic": false
+                              }
+                            ],
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nSmithing Table / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Leather Salvaging",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[ ]-[X]-[F]",
+                        "extra": [
+                          {
+                            "text": "\nMiddle = Leather Equipment\nRight = Flint\n",
+                            "extra": [
+                              {
+                                "text": "\nSaddles and Armor are compatible. Can also be salvaged by-hand.",
+                                "italic": false
+                              }
+                            ],
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nSmithing Table / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Paper Reusing",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[ ]-[N]-[F]",
+                        "extra": [
+                          {
+                            "text": "\nMiddle = Nametag\nRight = Flint\n",
+                            "extra": [
+                              {
+                                "text": "\nHand-Salvaging compatible.",
+                                "italic": false
+                              }
+                            ],
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nSmithing Table / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "TNT Scrapping",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[F]-[T]-[F]",
+                        "extra": [
+                          {
+                            "text": "\nLeft = Flint (Gunpowder Output)\nMiddle = TNT\nRight = Flint (Sand Output)\n",
+                            "extra": [
+                              {
+                                "text": "\nYou cannot put flint on both left and right.",
+                                "italic": false
+                              }
+                            ],
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nSmithing Table / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "String Unspooling",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[ ]-[W]-[F]",
+                        "extra": [
+                          {
+                            "text": "\nMiddle = Wool\nRight = Flint\n",
+                            "extra": [
+                              {
+                                "text": "\n3 String guaranteed.",
+                                "italic": false
+                              }
+                            ],
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          }
+        ],
+        "title": "Recycling Guide 1.0",
+        "author": "Kaitzar Razhom",
+        "generation": 2
+      },
+      "minecraft:lore": [
+        "It's covered in flint dust."
+      ]
+    }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "discover_recycling_1"
+    ]
+  ],
+  "rewards": {
+    "experience": 50
+  }
+}

@@ -33,6 +33,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
+  "parent": "razitek:main/player_join",
   "criteria": {
     "got_sheet": {
       "trigger": "minecraft:inventory_changed",

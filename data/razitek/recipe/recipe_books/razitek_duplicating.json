@@ -1,0 +1,162 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:book",
+    "minecraft:phantom_membrane"
+  ],
+  "result": {
+    "id": "minecraft:written_book",
+    "components": {
+      "minecraft:written_book_content": {
+        "pages": [
+          {
+            "text": "==========\n\n",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Duplication Guide\n",
+                "type": "text",
+                "extra": [
+                  {
+                    "text": "01W01A\n\n==========\n\n\nAuthor:\nMw. She'ya\n\nCo-Author:\nMemetta",
+                    "bold": false
+                  }
+                ],
+                "bold": true
+              }
+            ]
+          },
+          {
+            "text": "==========\nTable of Contents\n==========",
+            "extra": [
+              {
+                "text": "\n\nAbout",
+                "extra": [
+                  {
+                    "text": "\n\n- Phantasm Mimicry",
+                    "extra": [
+                      {
+                        "text": "\n- Stone Cloning",
+                        "click_event": {
+                          "action": "change_page",
+                          "page": 6
+                        }
+                      }
+                    ],
+                    "italic": false,
+                    "click_event": {
+                      "action": "change_page",
+                      "page": 5
+                    }
+                  }
+                ],
+                "color": "dark_green",
+                "italic": true,
+                "underlined": true,
+                "click_event": {
+                  "action": "change_page",
+                  "page": 3
+                }
+              }
+            ]
+          },
+          {
+            "raw": {
+              "text": "PHANTASMAL SHEDDING ",
+              "type": "text",
+              "extra": [
+                {
+                  "text": "(Phantom Membrane) is the Disciplinary Catalyst for Duplication.\n\nIt takes advantage of its innate attunement with the phantasy aspect of reality to perform psuedo mathematics actualization.",
+                  "bold": false
+                }
+              ],
+              "bold": true
+            }
+          },
+          {
+            "raw": {
+              "text": "While we know the \"what\", we do not know the \"how\".\nAs per recommended by an actualization expert, exercise caution as much as possible."
+            }
+          },
+          {
+            "text": "--------\nCrafting / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Phantasm Mimicry",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[ ] [X] [ ]\n[X] [$] [X]\n[ ] [X] [ ]\n\nX = Leather\n$ = Phantom Membrane\n",
+                        "extra": [
+                          {
+                            "text": "\nThe first test trial. Returns 2 sheddings per attempt.",
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nSmithing Table / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Stone Cloning",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n[ ]-[X]-[F]",
+                        "extra": [
+                          {
+                            "text": "\nMiddle = Special Stones\nRight = Stone/Cobblestone\n",
+                            "extra": [
+                              {
+                                "text": "\nSpecial Stones include Granite, Diorite, Andesite, Tuff, and Calcite.",
+                                "italic": false
+                              }
+                            ],
+                            "bold": false,
+                            "italic": true
+                          }
+                        ]
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "raw": "[Several torn pages]"
+          }
+        ],
+        "title": "Duplication Guide 1.0",
+        "author": "Mw. She'ya",
+        "generation": 2
+      },
+      "minecraft:lore": [
+        "It's soaked in chromatic aberration."
+      ]
+    },
+    "count": 1
+  }
+}

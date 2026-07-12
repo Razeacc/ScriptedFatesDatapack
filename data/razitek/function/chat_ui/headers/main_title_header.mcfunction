@@ -1,0 +1,1 @@
+tellraw @s {"text":"-[ Razi-TEK Pack v1.0 ]-","color":"green"}
