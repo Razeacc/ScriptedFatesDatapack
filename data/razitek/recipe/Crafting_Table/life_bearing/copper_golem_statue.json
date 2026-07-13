@@ -13,6 +13,12 @@
     ".": "minecraft:copper_nugget"
   },
   "result": {
-    "id": "minecraft:copper_golem_statue"
+    "id": "minecraft:copper_golem_statue",
+    "components": {
+      "minecraft:custom_name": "Suspicious Copper Golem",
+      "minecraft:lore": [
+        "It should work, but something's missing..."
+      ]
+    }
   }
 }

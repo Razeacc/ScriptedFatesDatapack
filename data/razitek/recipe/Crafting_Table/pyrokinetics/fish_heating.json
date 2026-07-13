@@ -18,6 +18,12 @@
   ],
   "result": {
     "id": "minecraft:charcoal",
+    "components": {
+      "minecraft:custom_name": "Fishy Charcoal",
+      "minecraft:lore": [
+        "For naughty merfolk on christmas."
+      ]
+    },
     "count": 1
   }
 }

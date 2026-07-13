@@ -12,6 +12,12 @@
   ],
   "result": {
     "id": "minecraft:red_sand",
+    "components": {
+      "minecraft:custom_name": "Red-Painted Sand",
+      "minecraft:lore": [
+        "Discount red concrete powder."
+      ]
+    },
     "count": 1
   }
 }
