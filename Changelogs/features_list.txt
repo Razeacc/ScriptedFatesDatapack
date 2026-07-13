@@ -1,0 +1,70 @@
+## - FEATURES -
+### RECYCLING
+- Nametags, Leather Equipment, and Saddles can be crafted or salvaged into leather
+-# (Hand-Crafting = 1 Leather. Flint Salvaging = 2-4 Leather)
+- Fish can be crafted into Fish Bones
+- TNT can be salvaged into Sand or Gunpowder
+- Wool can be scrapped into String
+
+### HYDRATION
+- Mass Dirt to Mud Moistening
+- Mass Powdered Concrete Hardening
+- Mass Copper Oxidizing
+
+### PYROKINETICS
+- Raw Ore Block smelting for Ore Blocks
+- Breeze Rods smelting for Blaze Rods
+- Leather Equipment, Saddles, and Fish charcoaling.
+
+### DUPLICATION
+- Special Stone (Calcite, Granite, Diorite, Andesite, Tuff) Duping
+- Flint and Nautilus Shell Duping
+- Phantom Membrane Duplication
+
+### Misc
+- Charcoal Blocks crafting recipe
+- Copper Golem crafting recipe
+- Mass Copper Deoxidization
+- Dark Prismarine, Red Sand, and Sculk Vein Conversion
+- Fragile Amethyst Bud crafting recipe
+- Harvest Flint from Gravel
+
+``` ```
+
+## - FEATURE ROADMAP -
+- **Hydration** and **Recycling** __Tier 2 Catalysts__ (similar to Phantom Membrane -> Echo Sheet)
+- Dead Coral Reviving
+- Stone Tool, Diamond Equipment, Conduit, and Beacon Recycling
+- Workstation Recycling (crafting table, anvil, enchanting table, loom, lectern, etc.)
+-# (Note to Self | DO NOT ADD TO ANNOUNCEMENT: Combine Gravel with a Wind Charge to get flint by "blowing away" the gravel. Yes, this trivializes the entire "Slimeball + gravel + iron nugget" smithing recipe, but that's the point. That's an old method, Mask Maker made her own "newer" method as part of the Common Sense Discipline.)
+- Sponge and Heart of the Sea Duping
+- Mob/Player Head Recycling/Crafting
+-# (finally giving a use to all those mob heads you keep getting outside of aura farming and clutter)
+- Netherite Equipment Recycling
+-# (turn Netherite equipment back into Diamond equipment)
+- Suspicious Gravel/Sand crafting recipe
+- Sculk Cleanse Crafting
+
+### PLANNED DISCIPLINES
+- Enchantment Crafting (*Archa Engineering Vol. 1*)
+- Custom Potion/Drink/Alcohol Brewing (*Chemistry Discipline*)
+- Item Transmutation (*Transmu-Tuning Discipline*)
+- Craftable Golems (*Life-Bearing Discipline*)
+- Compact Items (*Compression Discipline*)
+- Alternative Flint Harvesting method (*Common Sense Discipline*)
+
+
+### EXPERIMENTAL PLANS
+-# (No promises on these features getting implemented)
+- Spell Casting / Crafting (*Archa Engineering Vol. 2*)
+- :slot_machine: Gambling
+- Enchantment Redistribution (still looking into how to edit villager trades)
+- "Mark Trading System" (essentially EMC value, iykyk)
+-# - "Something to reveal invisible players" (idk yet)
+- Equipment Resonating (Custom Enchant System)
+- Enchanted Golden Apple crafting recipe and Nether Star Dupe
+-# (These will NOT be easy)
+- Equipment Particle Cosmetics
+- Craftable Spawn Eggs
+- Recycling Station (Full Uncrafting System)
+- Sculk Cleanse Raid (Terraria Otherworld)

@@ -1,62 +1,13 @@
 # :FirmataFrontier: Cubiqua Wilds Surveypack
 
-QoL features that add __more ways to use/reuse certain items__, all while connecting everything through lore-based game design.
+Lore-Driven QoL datapack, featuring __more ways to use/reuse certain items__ utilizing a worldbuilding-first game design philosophy. This pack's writing aims to __complement Minecraft's existing lore/world__ rather than overwrite it.
 Utilize several new :diamond_pickaxe: **discoveries** and :crafting: **disciplines** to broaden your gameplay!
 
-Craft the 4 Guidebooks, fabricate an Echoing PDA, and begin your survey today.
+With the Surveypack Guidebooks and the Echoing PDA, you may start your survey today!
+
+## - GETTING STARTED -
+- Using your "Cubiqua Wilds Surveypack" for the recipe guides, craft any of the 4 Guidebooks using a book and the Discipline's Catalyst.
+- Eventually, craft Mask Maker's Echoing PDA to access more intermediate/advanced recipes and features of the datapack.
+
+Guidebooks and the Echoing PDA are fully readable in-game. They will expand alongside future updates.
 ``` ```
-## Features
-### :recycle: Recycling
-- Nametags, Leather Equipment, and Saddles can be crafted or salvaged into leather
-- Fish can be crafted into Fish Bones
-- TNT can be salvaged into Sand or Gunpowder
-- Wool can be scrapped into String
-
-### :mc_phantom: Duplication
-- Special Stone (Calcite, Granite, Diorite, Andesite, Tuff :skull:) Duping
-- Flint and Nautilus Shell Duping
-- Phantom Membrane Duplication (bugged right now, will fix next patch)
-
-### :SpinningNautilus: Hydration
-- Mass Mud Crafting
-- Mass Concrete Crafting
-- Mass Copper Oxidizing
-
-### :fire: Pyrokinetics
-- Raw Ore Blocks can now be smelted into Ore Blocks
-- Breeze Rods can be smelted into Blaze Rods
-- Leather Equipment, Saddles, and Fish can be crafted with Blaze Powder to get charcoal.
-
-### :copper_golem_dance: Misc :amethyst:
-- Charcoal Blocks
-- Copper Golem crafting recipe
-- Mass Copper Deoxidization
-- Dark Prismarine, Red Sand, and Sculk Vein Conversion
-- Fragile Amethyst Bud crafting recipe
-- Harvest Flint from Gravel
-``` ```
-## :calendar_spiral: Confirmed Future Plans
-- **Hydration** and **Recycling** __Tier 2 Catalysts__ (similar to Phantom Membrane -> Echo Sheet)
-- Dead Coral Reviving
--# (sry I didn't get to this ASAP @hoky, but I have it planned at least, dw~)
-- Stone Tool and Diamond Equipment Recycling
-- Alternative Flint Harvesting method (*Common Sense Discipline*)
-- Netherite Equipment Recycling
--# (turn Netherite Armor back into Diamond)
-- Custom Potion/Drink/Alcohol Brewing (*Chemistry Discipline*)
-- Item Transmutation (*Transmu-Tuning Discipline*)
-- Craftable Golems (*Life-Bearing Discipline*)
-- Compact Items (*Compression Discipline*)
-- Enchantment Crafting (*Archa Engineering Vol. 1*)
-- Sculk Cleanse Crafting
-
-### :question: Experiment Plans
--# (No promises on these features getting implemented)
-- Spell Casting / Crafting (*Archa Engineering Vol. 2*)
-- :slot_machine: Gambling
-- Enchantment Redistribution (still looking into how to edit villager trades)
-- "Mark Trading System" (essentially EMC value, iykyk)
--# - "Something to reveal invisible players" (idk yet)
-- Equipment Resonating (Custom Enchant System)
-- Craftable Spawn Eggs
-- Sculk Cleanse Raid (Terraria Otherworld)
