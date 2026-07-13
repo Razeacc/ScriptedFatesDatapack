@@ -63,7 +63,16 @@
                     "text": "\n\n> Duplication Vol.2",
                     "extra": [
                       {
-                        "text": "\n\n> Common Sense Vol.1",
+                        "text": "\n> Common Sense Vol.1",
+                        "extra": [
+                          {
+                            "text": "\n\n> The Next Step",
+                            "click_event": {
+                              "action": "change_page",
+                              "page": 18
+                            }
+                          }
+                        ],
                         "click_event": {
                           "action": "change_page",
                           "page": 11
@@ -213,7 +222,7 @@
                 "text": "Copper Golem\n",
                 "extra": [
                   {
-                    "text": "\nOk this is actually my first test in this new \"Life-Bearing\" Discipline.\n\nHope nothing explodes, again.\n",
+                    "text": "\nKay, this is actually my first test in making a new \"Life-Bearing\" Discipline.\n\nHope nothing explodes, again.\n",
                     "bold": false,
                     "italic": true
                   }
@@ -270,7 +279,8 @@
                 "extra": [
                   {
                     "text": "\nWhy do we need to place copper blocks down to scrape off oxidation? Just craft it!\n",
-                    "bold": false
+                    "bold": false,
+                    "italic": true
                   }
                 ],
                 "bold": true
@@ -286,14 +296,18 @@
                 "extra": [
                   {
                     "text": "\nMake a prismarine block and ink sack sandwich. \n",
-                    "bold": false
+                    "bold": false,
+                    "italic": true
                   }
                 ],
                 "bold": false,
                 "italic": true
               }
             ],
-            "bold": true
+            "bold": false
+          },
+          {
+            "text": "> Memory Piece Extractor\n\n> Note to self: Still working on it\n\n\n> Devblog: My eyes hurt..."
           }
         ],
         "title": "Echoing PDA v1.0",
@@ -307,8 +321,15 @@
           "bold": true
         },
         {
-          "text": "Entries are decrypted and expanded through future revisions.\nReload hardware to receive updates.",
-          "color": "dark_aqua"
+          "text": "Entries are decrypted and expanded through future revisions.",
+          "color": "dark_aqua",
+          "bold": false
+        }
+        ,
+        {
+          "text": "Reload hardware to receive updates.",
+          "color": "dark_aqua",
+          "bold": true
         }
       ],
       "minecraft:rarity": "uncommon",
