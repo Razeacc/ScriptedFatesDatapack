@@ -137,11 +137,11 @@
           },
           {
             "raw": {
-              "text": "> NOTE TO SELF:\nTo reload this PDA, swap out its echo shard and phantom membrane for a new pair.\n",
+              "text": "> NOTE TO SELF:\nTo reload this PDA, use flint to swap out its echo shard and phantom membrane for a new pair.\n",
               "type": "text",
               "extra": [
                 {
-                  "text": "\nIf any recipes change, get added, or are missing— simply craft this PDA with those 2 ingredients.\nDon't be a stupid like last time.",
+                  "text": "\nIf any recipes change, get added, or are missing— craft this PDA with those 3 ingredients.\nDon't be a stupid like last time.",
                   "color": "dark_gray",
                   "italic": true
                 }
