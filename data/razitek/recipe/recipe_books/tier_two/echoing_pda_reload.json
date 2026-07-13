@@ -1,21 +1,12 @@
 {
-  "type": "minecraft:crafting_shaped",
+  "type": "minecraft:crafting_shapeless",
   "category": "misc",
-  "pattern": [
-    "TTT",
-    "PEC",
-    "III"
+  "ingredients": [
+    "minecraft:written_book",
+    "minecraft:echo_shard",
+    "minecraft:flint",
+    "minecraft:phantom_membrane"
   ],
-  "key": {
-    "T": "minecraft:tinted_glass",
-    "P": "minecraft:phantom_membrane",
-    "E": "minecraft:echo_shard",
-    "C": "minecraft:comparator",
-    "I": [
-      "minecraft:iron_ingot",
-      "minecraft:copper_ingot"
-    ]
-  },
   "result": {
     "id": "minecraft:written_book",
     "components": {

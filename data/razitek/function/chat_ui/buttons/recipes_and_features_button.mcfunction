@@ -1,1 +1,0 @@
-tellraw @s {text:"[Recipes and Features]",color:"gold",click_event:{action:"run_command",command:"/function razitek:recipes_and_features/recipe_list"}}

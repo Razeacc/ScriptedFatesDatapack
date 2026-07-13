@@ -22,13 +22,13 @@
         {
           "text": "Mask Maker's invention.",
           "type": "text",
-          "color": "aqua",
+          "color": "dark_aqua",
           "font": "minecraft:default"
         },
         {
-          "text": "Capable of replicating certain catalytic materials.",
+          "text": "Capable of replicating certain materials.",
           "type": "text",
-          "color": "aqua"
+          "color": "dark_aqua"
         },
         "It vibrates."
       ],

@@ -1,1 +1,0 @@
-tellraw @s {text:"[Guide]",color:"gold",click_event:{action:"run_command",command:"/function razitek:help"}}

@@ -142,6 +142,37 @@
             "type": "text",
             "extra": [
               {
+                "text": "Surveypack Guide (this book)",
+                "extra": [
+                  {
+                    "text": "\n--------",
+                    "extra": [
+                      {
+                        "text": "\n\nBook + (Common World Sample)",
+                        "extra": [
+                          {
+                            "text": "\n\nAcceptable samples include dirt, cobblestone, sand, sticks, and even red sand!\nThe firmata will accept any of these, and will fabricate a copy of this book for you.",
+                            "bold": false,
+                            "italic": true
+                          }
+                        ],
+                        "bold": true
+                      }
+                    ],
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "text": "--------\nShapeless Crafting / ",
+            "type": "text",
+            "extra": [
+              {
                 "text": "Recycling Guide",
                 "extra": [
                   {
@@ -262,7 +293,31 @@
             ]
           },
           {
+            "raw": "[A paged crumpled from compression]"
+          },
+          {
             "raw": ""
+          },
+          {
+            "text": "--------\nShapeless Crafting / ",
+            "type": "text",
+            "extra": [
+              {
+                "text": "Common Sens-",
+                "extra": [
+                  {
+                    "text": "\n\n[Looks like someone gave up writing this page halfway through]",
+                    "bold": false,
+                    "italic": false,
+                    "underlined": false
+                  }
+                ],
+                "underlined": true
+              }
+            ]
+          },
+          {
+            "raw": "["
           },
           {
             "raw": ""
@@ -271,7 +326,7 @@
             "raw": ""
           },
           {
-            "raw": ""
+            "raw": "[A torn page, its remaining scraps seemingly vibrating]"
           },
           {
             "raw": ""
@@ -280,19 +335,7 @@
             "raw": ""
           },
           {
-            "raw": ""
-          },
-          {
-            "raw": ""
-          },
-          {
-            "raw": ""
-          },
-          {
-            "raw": ""
-          },
-          {
-            "raw": ""
+            "raw": "[A cleanly-cut page. Almost as if a piece of it was teleported away]"
           },
           {
             "raw": ""

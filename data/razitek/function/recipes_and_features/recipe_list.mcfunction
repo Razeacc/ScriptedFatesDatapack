@@ -1,2 +1,0 @@
-function razitek:chat_ui/headers/recipelist_title_header
-function razitek:chat_ui/separators/basic_separator
