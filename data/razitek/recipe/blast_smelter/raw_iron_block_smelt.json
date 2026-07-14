@@ -1,7 +1,7 @@
 {
-  "type": "minecraft:smelting",
+  "type": "minecraft:blasting",
   "ingredient": "minecraft:raw_iron_block",
   "result": "minecraft:iron_block",
   "experience": 15,
-  "cookingtime": 1500
+  "cookingtime": 700
 }

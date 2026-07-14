@@ -1,7 +1,7 @@
 {
-  "type": "minecraft:smelting",
+  "type": "minecraft:blasting",
   "ingredient": "minecraft:raw_copper_block",
   "result": "minecraft:copper_block",
   "experience": 15,
-  "cookingtime": 1300
+  "cookingtime": 600
 }

@@ -3,15 +3,19 @@ Title:
 Last Updated: July 14, 2026
 
 ## Additions
+- Blast Furnace Compatibility with Raw Ore Block Smelting (60% faster than smelting)
+
 RECYCLING
 - Recipe for turning bows, fishing rods, or crossbows into sticks
 NEW COMPRESSION DISCIPLINE
 - Rapid Bone Block Crafting (3 bones or any fish => 1 bone block)
 - Mass white dye conversion (4 bone blocks => 36 white dye)
 
+
 ## Changes
 - Reworded Echoing PDA Reloading instructions (recipe required flint, but the book doesn't state this)
 - Nerfed Echo Shard + Enchanted Book dupe
+- Adjusted breeze rod smelt time to appropriate speeds
 
 ## Fixes
 The following broken recipes have been fixed
