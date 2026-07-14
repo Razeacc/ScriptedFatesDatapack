@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:bone",
+      "minecraft:pufferfish",
+      "cod",
+      "minecraft:salmon",
+      "minecraft:tropical_fish"
+    ],
+    [
+      "minecraft:bone",
+      "minecraft:pufferfish",
+      "cod",
+      "minecraft:salmon",
+      "minecraft:tropical_fish"
+    ],
+    [
+      "minecraft:bone",
+      "minecraft:pufferfish",
+      "cod",
+      "minecraft:salmon",
+      "minecraft:tropical_fish"
+    ]
+  ],
+  "result": "minecraft:bone_block"
+}
