@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:wet_sponge",
+    "minecraft:wet_sponge",
+    "minecraft:wet_sponge",
+    "minecraft:nautilus_shell"
+  ],
+  "result": {
+    "id": "minecraft:wet_sponge",
+    "count": 3
+  }
+}

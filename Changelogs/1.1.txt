@@ -8,6 +8,10 @@ Last Updated: July 14, 2026
 
 RECYCLING
 - Recipe for turning bows, fishing rods, or crossbows into sticks
+PYROKINETICS
+- Sponge Drying Recipe (1 Wet Sponge + 2 Blaze Powder = 1 Dry Sponge)
+HYDRATION
+- Sponge Wettening Recipe (3 Sponges + 1 Nautilus Shell = 3 Wet Sponges)
 NEW COMPRESSION DISCIPLINE
 - Rapid Bone Block Crafting (3 bones or any fish => 1 bone block)
 - Mass white dye conversion (4 bone blocks => 36 white dye)

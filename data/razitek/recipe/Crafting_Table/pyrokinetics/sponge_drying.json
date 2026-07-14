@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:blaze_powder",
+    "minecraft:wet_sponge",
+    "minecraft:blaze_powder"
+  ],
+  "result": "minecraft:sponge"
+}
