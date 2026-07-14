@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": [
+      "minecraft:bow",
+      "minecraft:fishing_rod"
+    ]
+  },
+  "result": {
+    "id": "minecraft:stick",
+    "count": 15
+  }
+}
