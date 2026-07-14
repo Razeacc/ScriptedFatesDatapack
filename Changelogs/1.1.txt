@@ -1,0 +1,21 @@
+# Version 1.1
+Title: 
+Last Updated: July 14, 2026
+
+## Additions
+RECYCLING
+- recipe for turning bows, fishing rods, or crossbows into sticks
+NEW COMPRESSION DISCIPLINE
+- Rapid Bone Block Crafting (3 bones or any fish = 1 bone block)
+
+## Changes
+- Reworded Echoing PDA Reloading instructions (recipe required flint, but the book doesn't state this)
+- Nerfed Echo Shard + Enchanted Book dupe
+
+## Fixes
+The following broken recipes have been fixed
+- Membrane Dupe
+- Mass Concrete Hydration
+
+## Main Removals
+- 
