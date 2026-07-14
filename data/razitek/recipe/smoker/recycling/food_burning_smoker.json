@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": [
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_mutton",
+    "minecraft:cooked_rabbit",
+    "minecraft:cooked_salmon",
+    "minecraft:dried_kelp",
+    "minecraft:baked_potato",
+    "minecraft:bread",
+    "minecraft:carrot"
+  ],
+  "result": {
+    "id": "minecraft:charcoal",
+    "components": {
+      "minecraft:custom_name": "Burnt Food",
+      "minecraft:lore": [
+        "Food for the brave..."
+      ],
+      "minecraft:food": {
+        "nutrition": 1,
+        "saturation": 1,
+        "can_always_eat": true
+      }
+    },
+    "count": 1
+  },
+  "experience": 5,
+  "cookingtime": 700
+}
