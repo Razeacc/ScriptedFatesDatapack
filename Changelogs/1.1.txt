@@ -4,9 +4,10 @@ Last Updated: July 14, 2026
 
 ## Additions
 RECYCLING
-- recipe for turning bows, fishing rods, or crossbows into sticks
+- Recipe for turning bows, fishing rods, or crossbows into sticks
 NEW COMPRESSION DISCIPLINE
-- Rapid Bone Block Crafting (3 bones or any fish = 1 bone block)
+- Rapid Bone Block Crafting (3 bones or any fish => 1 bone block)
+- Mass white dye conversion (4 bone blocks => 36 white dye)
 
 ## Changes
 - Reworded Echoing PDA Reloading instructions (recipe required flint, but the book doesn't state this)

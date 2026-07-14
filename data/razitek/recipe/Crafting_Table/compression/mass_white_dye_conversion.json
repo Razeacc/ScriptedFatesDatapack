@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": [
+      "minecraft:bone_block"
+    ]
+  },
+  "result": {
+    "id": "minecraft:white_dye",
+    "count": 36
+  }
+}
