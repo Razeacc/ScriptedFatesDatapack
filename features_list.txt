@@ -5,33 +5,58 @@
 - Fish can be crafted into Fish Bones
 - TNT can be salvaged into Sand or Gunpowder
 - Wool can be scrapped into String
+(ADDED IN v1.1)
+- 4 Bows, fishing rods, or crossbows can be salvaged into sticks
 
 ### HYDRATION
 - Mass Dirt to Mud Moistening
 - Mass Powdered Concrete Hardening
 - Mass Copper Oxidizing
+(ADDED IN v1.1)
+- Sponge Wettening Recipe
 
 ### PYROKINETICS
-- Raw Ore Block smelting for Ore Blocks
+- Raw Ore Block smelting/blasting for Ore Blocks
 - Breeze Rods smelting for Blaze Rods
-- Leather Equipment, Saddles, and Fish charcoaling.
+- Leather Equipment, Saddles, and Raw Fish charcoaling.
+(ADDED IN v1.1)
+- Sponge Drying Recipe
+- Cooked Food can be cooked even further into "charcoal"
 
 ### DUPLICATION
 - Special Stone (Calcite, Granite, Diorite, Andesite, Tuff) Duping
 - Flint and Nautilus Shell Duping
 - Phantom Membrane Duplication
 
+### COMPRESSION (New in v1.1)
+- Rapid Bone Block Crafting
+- Mass white dye conversion
+
 ### Misc
-- Charcoal Blocks crafting recipe
+- Charcoal Blocks crafting recipe (Labelled as COMPRESSION)
 - Copper Golem crafting recipe
 - Mass Copper Deoxidization
 - Dark Prismarine, Red Sand, and Sculk Vein Conversion
-- Fragile Amethyst Bud crafting recipe
+- Fragile Amethyst Bud crafting recipe (Labelled as Duplication in v1.1)
 - Harvest Flint from Gravel
 
 ``` ```
 
-## - FEATURE ROADMAP -
+## - DEV ROADMAP -
+- v1.1 "Dinner's Up!" - Roleplaying Update, Chemistry Discipline. Custom Food/Drinks/Potions + Tier 2 Catalysts
+- v1.2 "Tuning In" - Transmu-Tuning Discipline. Item Transfiguration and building assistance
+- v1.3 "Magic on Metal" - Craftable Enchant update. Introduction of "Avalonian Steel", crafted using iron, echo shards, and books enchanted books. This material is the "Archa Engineering" Catalyst. When used alongside Transmu-Tuning, can essentially let you Recycle enchants into newer/better/specific enchants.
+- v1.4 "Left Behind" - "History" Update. Changes/modifiers Sniffer Sniffing, Fishing, Archeology, Trading, and many more Loot Tables with new relics, lore tablets, etc. A new material is introduced too: "Innanimate Khueenite". When crafted with any meat, it becomes "Sentient Khueenite", which will be used in the next update.
+- v1.5 "Right on Track" - Blank/Innate Memory Piece Extraction is now possible, alongside faster minecarts (maybe) and introduction of "Life-Bearing Discipline", letting you craft "golem assembly devices" using the new Sentient Khueenite introduced in the last update. Golems also drop Innate Khueenite now.
+
+- v2.0 "FractureGraven" - New Sculk Raid/Purification mechanic. Players can either start a Sculk Raid to slowly purify an area of sculk while new sculken enemies attack them. Or, Players can instead *spread* Sculk, alerting all other players on the server to their location.
+Spreading sculk this way will need an expensive resource to begin (maybe a nether star or a new drop from a boss in sculk purification raids?). It spreads sculk passively, but slowly, and can be easily broken by a single attack.
+Meanwhile, purifying sculk needs Echo Sheets, a specific block to replace with (dirt, stone, or sand), and a Heart of the Sea (not a conduit). You basically surround the blocks and echo sheet with the Heart to make the Sculk Purifier. Placing it down on sculk begins the raid if enough sculk blocks are nearby. It purifies the area quickly (5-10 ish minutes) while waves of enemies try to break the conduit (it has 20 hearts like a player)
+New resources obtained from these raids will allow for the creation of Memory Pieces using Blank/Innate Memorie Pieces. By using a new "Vessel Memory Interface", it'll open a new chest-like UI that lets you literally drag in and out Memory Pieces (it's tied to each player like an enderchest). Depending on what memory pieces are in here, will grant permament attribute boosts, like +1 HP, +1 Reach, +1 Speed, etc. (IDK if any of these are possible tho...)
+- v2.1 "NetherMore" - Nether Update. New Nether structures, new history/lore similar to the "Left Behind" update, and maybe reusing Sculk Raid code to spread Warped or Crimson across the nether wastes and forests (soulsand valley and basalt delta will get their own special attention another time)
+- v2.2 "NotTheEnd" - TBD (idk what to put here yet, but it won't be any End Update stuff)
+
+### Planned Features
 - **Hydration** and **Recycling** __Tier 2 Catalysts__ (similar to Phantom Membrane -> Echo Sheet)
 - Dead Coral Reviving
 - Stone Tool, Diamond Equipment, Conduit, and Beacon Recycling
@@ -50,7 +75,7 @@
 - Custom Potion/Drink/Alcohol Brewing (*Chemistry Discipline*)
 - Item Transmutation (*Transmu-Tuning Discipline*)
 - Craftable Golems (*Life-Bearing Discipline*)
-- Compact Items (*Compression Discipline*)
+- ~~Compact Items (*Compression Discipline*)~~
 - Alternative Flint Harvesting method (*Common Sense Discipline*)
 
 

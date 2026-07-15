@@ -1,7 +1,7 @@
 {
   "type": "minecraft:smithing_transform",
   "base": "minecraft:spawner",
-  "addition": "minecraft:echo_shard",
+  "addition": "minecraft:rabbit_hide",
   "template": "minecraft:medium_amethyst_bud",
   "result": {
     "id": "minecraft:budding_amethyst",
