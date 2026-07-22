@@ -15,6 +15,9 @@ NEW COMPRESSION DISCIPLINE
 - Rapid Bone Block Crafting (3 bones or any fish => 1 bone block)
 - Mass white dye conversion (4 bone blocks => 36 white dye)
 MISC
+- Added low chance for normal seeds, sapplings, pottery sherds to be unearthed from Sniffer Digging 
+
+FOR DEVELOPERS
 - Item Tags for Edible Food, Edible Meat, and Edible Veggies
 
 ## Changes
