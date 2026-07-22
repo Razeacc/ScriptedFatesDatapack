@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "concrete_oxidization",
+  "key": {
+    "#": "minecraft:sand",
+    "X": [
+      "minecraft:redstone",
+      "minecraft:red_dye",
+      "minecraft:poppy"
+    ]
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:red_sand"
+  }
+}
