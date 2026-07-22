@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#razitek:head_items",
+    "minecraft:echo_shard"
+  ],
+  "result": {
+    "id": "minecraft:experience_bottle",
+    "components": {
+      "minecraft:item_name": "Beyonder Essence",
+      "minecraft:lore": [
+        "Vouchsafed by thee"
+      ]
+    },
+    "count": 10
+  }
+}

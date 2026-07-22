@@ -10,6 +10,7 @@ RECYCLING
 - 6 Sticks in a Y shape makes a "Dead Bush Prop"
 - Dead Bushes can be crafted back into 6 sticks 
 - 4 Leather Equipment can be recycled into 5 leather
+- 1 Player Head + 1 Echo Shard = 10 "Beyonder Essence"
 PYROKINETICS
 - Sponge Drying Recipe (1 Wet Sponge + 2 Blaze Powder = 1 Dry Sponge)
 - Blast Furnace Compatibility with Raw Ore Block Smelting (60% faster than smelting)
@@ -27,6 +28,7 @@ MISC
 
 FOR DEVELOPERS
 - Item Tags for Edible Food, Edible Meat, and Edible Veggies
+- New tag for all heads "head_items.json"
 
 ## Changes
 - Reworded Echoing PDA Reloading instructions (recipe required flint, but the book doesn't state this)
