@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:nether_wart_block",
+      "minecraft:warped_wart_block"
+    ],
+    "minecraft:blaze_powder",
+    [
+      "minecraft:warped_wart_block",
+      "minecraft:nether_wart_block"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:charcoal",
+    "components": {
+      "minecraft:custom_name": "Fungus Charcoal",
+      "minecraft:lore": [
+        "Smells like hell"
+      ]
+    },
+    "count": 1
+  }
+}

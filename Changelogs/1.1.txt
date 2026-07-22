@@ -15,6 +15,7 @@ PYROKINETICS
 - Sponge Drying Recipe (1 Wet Sponge + 2 Blaze Powder = 1 Dry Sponge)
 - Blast Furnace Compatibility with Raw Ore Block Smelting (60% faster than smelting)
 - Food Burning in the Smelter or Smoker (gives "Burnt Food" charcoal, which is edible...)
+- 2 Netherwart or Warpedwart blocks + 1 Blaze Powder = 1 "Fungus Charcoal"
 HYDRATION
 - Sponge Wettening Recipe (3 Sponges + 1 Nautilus Shell = 3 Wet Sponges)
 - 8 Red Sand + 1 Nautilus Shell = 8 Sand
