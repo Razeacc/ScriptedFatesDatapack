@@ -9,6 +9,7 @@ RECYCLING
 - Crafting an arrow BELOW a bone breaks the flint to recycle 1 feather
 - 6 Sticks in a Y shape makes a "Dead Bush Prop"
 - Dead Bushes can be crafted back into 6 sticks 
+- 4 Leather Equipment can be recycled into 5 leather
 PYROKINETICS
 - Sponge Drying Recipe (1 Wet Sponge + 2 Blaze Powder = 1 Dry Sponge)
 - Blast Furnace Compatibility with Raw Ore Block Smelting (60% faster than smelting)
@@ -31,11 +32,14 @@ FOR DEVELOPERS
 - Reworded Echoing PDA Reloading instructions (recipe required flint, but the book doesn't state this)
 - Nerfed Echo Shard + Enchanted Book dupe
 - Adjusted breeze rod smelt time to appropriate speeds
+- Renamed "Leather Armor to Leather" recipe to "Leather Equipment to Leather"
 
 ## Fixes
 The following broken recipes have been fixed
 - Membrane Dupe
 - Mass Concrete Hydration
+- Fixed Leather Armor to Leather recipe
 
 ## Main Removals
 - Removed Sculk Purification recipe
+- Removed Saddle to Leather recipe by combining it with the Leather Armor to Leather recipe

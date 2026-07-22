@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    [
+      "minecraft:leather_boots",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_helmet",
+      "minecraft:leather_horse_armor",
+      "minecraft:leather_leggings",
+      "minecraft:saddle"
+    ],
+    [
+      "minecraft:leather_boots",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_helmet",
+      "minecraft:leather_horse_armor",
+      "minecraft:leather_leggings",
+      "minecraft:saddle"
+    ],
+    [
+      "minecraft:leather_boots",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_helmet",
+      "minecraft:leather_horse_armor",
+      "minecraft:leather_leggings",
+      "minecraft:saddle"
+    ],
+    [
+      "minecraft:leather_boots",
+      "minecraft:leather_chestplate",
+      "minecraft:leather_helmet",
+      "minecraft:leather_horse_armor",
+      "minecraft:leather_leggings",
+      "minecraft:saddle"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:leather",
+    "count": 5
+  }
+}
