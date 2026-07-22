@@ -10,7 +10,8 @@
       "minecraft:item_name": "Beyonder Essence",
       "minecraft:lore": [
         "Vouchsafed by thee"
-      ]
+      ],
+      "minecraft:max_stack_size": 99
     },
     "count": 10
   }
