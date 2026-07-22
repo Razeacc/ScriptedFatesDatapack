@@ -45,3 +45,4 @@ The following broken recipes have been fixed
 ## Main Removals
 - Removed Sculk Purification recipe
 - Removed Saddle to Leather recipe by combining it with the Leather Armor to Leather recipe
+- Removed Saddle to Charcoal heating by combining it with its Leather Armor recipe
