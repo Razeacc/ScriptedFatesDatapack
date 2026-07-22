@@ -23,6 +23,86 @@
         "nutrition": 1,
         "saturation": 1,
         "can_always_eat": true
+      },
+      "minecraft:consumable": {
+        "consume_seconds": 5,
+        "animation": "eat",
+        "sound": "minecraft:block.rooted_dirt.hit",
+        "has_consume_particles": true,
+        "on_consume_effects": [
+          {
+            "type": "minecraft:apply_effects",
+            "effects": [
+              {
+                "id": "minecraft:nausea",
+                "amplifier": 1,
+                "duration": 120,
+                "hidden_effect": {
+                  "id": "minecraft:mining_fatigue",
+                  "duration": 60,
+                  "ambient": false,
+                  "show_particles": false,
+                  "show_icon": false
+                }
+              }
+            ],
+            "probability": 0.5
+          },
+          {
+            "type": "minecraft:apply_effects",
+            "effects": [
+              {
+                "id": "minecraft:blindness",
+                "duration": 120
+              }
+            ],
+            "probability": 0.5
+          },
+          {
+            "type": "minecraft:apply_effects",
+            "effects": [
+              {
+                "id": "minecraft:poison",
+                "duration": 160
+              }
+            ],
+            "probability": 0.3
+          },
+          {
+            "type": "minecraft:apply_effects",
+            "effects": [
+              {
+                "id": "minecraft:wither",
+                "duration": 40
+              }
+            ],
+            "probability": 0.2
+          },
+          {
+            "type": "minecraft:apply_effects",
+            "effects": [
+              {
+                "id": "minecraft:oozing",
+                "duration": 120
+              }
+            ],
+            "probability": 0.4
+          },
+          {
+            "type": "minecraft:apply_effects",
+            "effects": [
+              {
+                "id": "minecraft:health_boost",
+                "amplifier": 10,
+                "duration": 120,
+                "ambient": false,
+                "show_particles": false,
+                "show_icon": false
+              }
+            ],
+            "probability": 0.01
+          }
+        ]
       }
     },
     "count": 1
