@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "#",
+    "$"
+  ],
+  "key": {
+    "#": [
+      "minecraft:arrow"
+    ],
+    "$": [
+      "minecraft:bone"
+    ]
+  },
+  "result": {
+    "id": "minecraft:flint",
+    "count": 1
+  }
+}

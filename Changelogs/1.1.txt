@@ -5,6 +5,8 @@ Last Updated: July 14, 2026
 ## Additions
 RECYCLING
 - Recipe for turning bows, fishing rods, or crossbows into sticks
+- Crafting an arrow BELOW a bone breaks the feather to recycle 1 flint
+- Crafting an arrow BELOW a bone breaks the flint to recycle 1 feather
 PYROKINETICS
 - Sponge Drying Recipe (1 Wet Sponge + 2 Blaze Powder = 1 Dry Sponge)
 - Blast Furnace Compatibility with Raw Ore Block Smelting (60% faster than smelting)
