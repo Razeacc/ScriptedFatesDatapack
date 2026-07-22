@@ -7,14 +7,40 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:torchflower_seeds"
+          "name": "minecraft:torchflower_seeds",
+          "weight": 5,
+          "quality": 1,
+          "conditions": []
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:pitcher_pod"
+          "name": "minecraft:pitcher_pod",
+          "weight": 4,
+          "quality": 1
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "minecraft:decorated_pot_sherds",
+          "expand": true,
+          "weight": 1,
+          "quality": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "minecraft:blocks/short_grass",
+          "weight": 2
+        },
+        {
+          "type": "minecraft:tag",
+          "name": "minecraft:saplings",
+          "expand": true,
+          "weight": 2,
+          "quality": 1
         }
       ],
-      "bonus_rolls": 0
+      "bonus_rolls": 0,
+      "functions": [],
+      "conditions": []
     }
   ]
 }
