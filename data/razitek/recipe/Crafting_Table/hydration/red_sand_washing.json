@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "concrete_oxidization",
+  "key": {
+    "#": "minecraft:red_sand",
+    "X": "minecraft:nautilus_shell"
+  },
+  "pattern": [
+    "###",
+    "#X#",
+    "###"
+  ],
+  "result": {
+    "count": 8,
+    "id": "minecraft:sand"
+  }
+}

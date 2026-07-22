@@ -13,6 +13,7 @@ PYROKINETICS
 - Food Burning in the Smelter or Smoker (gives "Burnt Food" charcoal, which is edible...)
 HYDRATION
 - Sponge Wettening Recipe (3 Sponges + 1 Nautilus Shell = 3 Wet Sponges)
+- 8 Red Sand + 1 Nautilus Shell = 8 Sand
 NEW COMPRESSION DISCIPLINE
 - Rapid Bone Block Crafting (3 bones or any fish => 1 bone block)
 - Mass white dye conversion (4 bone blocks => 36 white dye)
