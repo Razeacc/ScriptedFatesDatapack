@@ -7,6 +7,8 @@ RECYCLING
 - Recipe for turning bows, fishing rods, or crossbows into sticks
 - Crafting an arrow BELOW a bone breaks the feather to recycle 1 flint
 - Crafting an arrow BELOW a bone breaks the flint to recycle 1 feather
+- 6 Sticks in a Y shape makes a "Dead Bush Prop"
+- Dead Bushes can be crafted back into 6 sticks 
 PYROKINETICS
 - Sponge Drying Recipe (1 Wet Sponge + 2 Blaze Powder = 1 Dry Sponge)
 - Blast Furnace Compatibility with Raw Ore Block Smelting (60% faster than smelting)

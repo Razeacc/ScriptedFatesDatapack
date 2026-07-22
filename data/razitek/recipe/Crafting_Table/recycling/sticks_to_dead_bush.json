@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "# #",
+    "###",
+    " #"
+  ],
+  "key": {
+    "#": [
+      "minecraft:stick"
+    ]
+  },
+  "result": {
+    "id": "minecraft:dead_bush",
+    "components": {
+      "minecraft:item_name": "Dead Bush Prop",
+      "minecraft:lore": [
+        "Nobody can tell the difference"
+      ]
+    }
+  }
+}
