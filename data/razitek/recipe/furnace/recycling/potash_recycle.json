@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    "minecraft:sugar_cane",
+    "minecraft:leaf_litter",
+    "minecraft:big_dripleaf",
+    "minecraft:small_dripleaf",
+    "minecraft:acacia_leaves",
+    "minecraft:birch_leaves",
+    "minecraft:dark_oak_leaves",
+    "minecraft:jungle_leaves",
+    "minecraft:oak_leaves",
+    "minecraft:spruce_leaves",
+    "minecraft:azalea_leaves",
+    "minecraft:flowering_azalea_leaves",
+    "minecraft:short_grass",
+    "minecraft:tall_grass",
+    "minecraft:fern",
+    "minecraft:large_fern",
+    "minecraft:pale_oak_leaves",
+    "minecraft:cherry_leaves",
+    "minecraft:mangrove_leaves",
+    "minecraft:bamboo"
+  ],
+  "result": {
+    "id": "minecraft:bone_meal",
+    "components": {
+      "minecraft:item_name": "Potash",
+      "minecraft:item_model": "minecraft:gunpowder",
+      "minecraft:lore": [
+        "Reclaimed Potassium.\nActs just like bonemeal."
+      ]
+    },
+    "count": 1
+  },
+  "experience": 1,
+  "cookingtime": 300
+}

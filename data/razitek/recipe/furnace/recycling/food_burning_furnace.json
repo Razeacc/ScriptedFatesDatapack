@@ -10,7 +10,14 @@
     "minecraft:dried_kelp",
     "minecraft:baked_potato",
     "minecraft:bread",
-    "minecraft:carrot"
+    "minecraft:carrot",
+    "minecraft:pumpkin",
+    "minecraft:beetroot",
+    "minecraft:apple",
+    "minecraft:pumpkin_pie",
+    "minecraft:cookie",
+    "minecraft:melon_slice",
+    "minecraft:melon"
   ],
   "result": {
     "id": "minecraft:charcoal",
@@ -108,5 +115,5 @@
     "count": 1
   },
   "experience": 5,
-  "cookingtime": 150
+  "cookingtime": 350
 }
